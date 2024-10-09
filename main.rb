@@ -1,4 +1,4 @@
-puts "Enter your name"
-puts "Hi " + gets
+puts 'Enter your name'
+puts 'Hi ' + gets
 
-"berk"
+'berkeley (boo Miami)'

@@ -16,10 +16,16 @@ end
 sparky = GoodDog.new
 paws = Cat.new
 
+puts 'Dogs:'
 puts sparky
+puts 'says'
+puts sparky.speak
 
+puts 'Cats:'
 puts paws
+puts 'says'
+puts paws.speak
 
 # This is a comment, ignore me
-# puts paws
-# puts sparky.methods - Object.methods
+
+# puts sparky.methods

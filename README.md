@@ -1,6 +1,6 @@
 # In Class Testing Repo
 
-Welcome students to fall 2024! 🍁
+Welcome students to Spring 2025! 🌻
 
 ## Running the repl
 

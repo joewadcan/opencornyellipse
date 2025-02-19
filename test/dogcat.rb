@@ -8,7 +8,7 @@ class GoodDog < Animal
 end
 
 class Cat < Animal
-  def speak
+  def speakcat
     puts 'Meow!'
   end
 end
@@ -24,7 +24,8 @@ puts sparky.speak
 puts 'Cats:'
 puts paws
 puts 'says'
-puts paws.speak
+puts paws.speakcat
+puts paws.class
 
 # This is a comment, ignore me
 

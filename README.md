@@ -1,7 +1,7 @@
 # In Class Testing Repo
 
 Welcome students to Spring 2025! 🌻
-Happy Bday to me ! 
+Happy Bday to me ! 🎉
 
 ## Running the repl
 
